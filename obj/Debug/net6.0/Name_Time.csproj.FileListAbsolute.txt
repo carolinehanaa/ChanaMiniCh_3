@@ -1,0 +1,45 @@
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\bin\Debug\net6.0\Name_Time.exe
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\bin\Debug\net6.0\Name_Time.deps.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\bin\Debug\net6.0\Name_Time.runtimeconfig.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\bin\Debug\net6.0\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\bin\Debug\net6.0\Name_Time.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.csproj.AssemblyReference.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.AssemblyInfoInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.AssemblyInfo.cs
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.csproj.CoreCompileInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\refint\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\Name_Time.genruntimeconfig.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #3\Name_Time\obj\Debug\net6.0\ref\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.exe
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.deps.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.runtimeconfig.json
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.csproj.AssemblyReference.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.AssemblyInfoInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.AssemblyInfo.cs
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.csproj.CoreCompileInputs.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\refint\Name_Time.dll
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.pdb
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.genruntimeconfig.cache
+C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_3\obj\Debug\net6.0\ref\Name_Time.dll
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.exe
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.deps.json
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.runtimeconfig.json
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.dll
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\bin\Debug\net6.0\Name_Time.pdb
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.csproj.AssemblyReference.cache
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.AssemblyInfoInputs.cache
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.AssemblyInfo.cs
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.csproj.CoreCompileInputs.cache
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.dll
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\refint\Name_Time.dll
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.pdb
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\Name_Time.genruntimeconfig.cache
+C:\Users\carol\Downloads\Challenge_0_SisterHana\Challenge_0_SisterHana\ChanaMiniCh_3\obj\Debug\net6.0\ref\Name_Time.dll
